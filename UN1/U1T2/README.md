@@ -17,8 +17,7 @@ Escreva aqui uma discussão de até 500 palavras sobre os principais achados da 
 
 ---
 
-## Grafo Gerado
-Insira abaixo a imagem do grafo gerado:  
-![Descrição da Imagem do Grafo](caminho/para/imagem.png)
+## Grafo Gerado:  
+![Grago gerado](UN1/U1T2/images/grafo.png)
 
 ---
