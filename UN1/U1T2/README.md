@@ -8,7 +8,7 @@
 
 ## Descrição da Tarefa
 A tarefa realizada tinha como objetivo construir um grafo de co-ocorrência dos ingredientes presentes na culinária brasileira e analisar sua assortatividade . Para isso, utilizei o moodelo de linguagem ChatGPT para criar uma base de dados contendo o nome da receita de um prato típico, os ingredientes e os tipos dos ingredientes. Por questão de simplicidade, foram usadas apenas cinquenta receitas e os ingredientes foram classificados em oito categorias (Vegetal, Proteina, Carboidrato, Fruta, Condimento, Laticinio, Gordura e Outro). Depois construi um grafo utilizando a biblioteca NetwokX e a visualização com a biblioteca nxviz, utilizando esses para fazer a análise.
-**Link para o vídeo de apresentação (até 5 minutos):** [Insira o link aqui](#)
+**Link para o vídeo de apresentação:** [Link do vídeo](https://www.loom.com/share/f96cc5a067cb4f3caa812338e67079c2?sid=77db09c9-0d54-4b83-b6d4-93ae654f0bfa)
 
 ---
 
