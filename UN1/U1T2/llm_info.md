@@ -15,3 +15,7 @@ Ingredientes identificados e classificados:
 
 3. Ingrediente 3 – Classificação 3
 ...
+
+## Gemini
+**Auxílio no código:**
+Utilizei em certos momentos a ferramenta integrada ao Google CoLab para gerar, principalmente mascaras para formatação, e depurar os códigos
